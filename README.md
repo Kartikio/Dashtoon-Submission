@@ -7,7 +7,11 @@ The **data** contains the content and style images. Just change the **content_im
 
 ### Dependencies
 **Python-3.10.1**
+
 **Tensorflow- 2.14.0**
+
 **Numpy- 1.24.4**
+
 **Matplotlib- 3.5.1**
+
 **PIL- 9.0.0**
