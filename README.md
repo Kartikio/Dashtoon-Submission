@@ -5,7 +5,7 @@ This is my submission for Neural Style Transfer assignment by Dashtoon.
 
 The **.ipynb** file named **neural_style_transfer.ipynb** contains the submission code.
 
-The **data** contains the content and style images. Just change the **content_image_path** and **style_image_path** in notebook and run for more than 300 epochs and enjoy the results.
+The **data** folder contains the **content_image** folder containing some content images and **style_image** folder containing some style images. In the notebook just change the **content_image_path** and **style_image_path** run for more than 300 epochs and enjoy the results.
 
 ## Dependencies
 Python-3.10.1
