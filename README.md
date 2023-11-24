@@ -1,4 +1,4 @@
-# Dashtoon-Submissio
+# Dashtoon-Submission
 
 ### Hi, I'm Kartik! 👋. 
 This is my submission for Neural Style Transfer assignment by Dashtoon.
