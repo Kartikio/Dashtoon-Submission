@@ -7,7 +7,7 @@ The **.ipynb** file named **neural_style_transfer.ipynb** contains the submissio
 
 The **data** folder contains the **content_image** and **style_image** folders. 
 
-**content_image** contain some content images and **style_image** folder contain some style images. 
+**content_image** folder contain some content images and **style_image** folder contain some style images. 
 
 In the notebook just change the **content_image_path** and **style_image_path** run for more than 300 epochs and enjoy the results.
 
