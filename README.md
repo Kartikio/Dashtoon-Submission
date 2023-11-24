@@ -11,6 +11,8 @@ This is my submission for Neural Style Transfer assignment by Dashtoon.
 
 - In the notebook just change the **content_image_path** and **style_image_path** run for more than 300 epochs and enjoy the results.
 
+- The notebook has been run on bare 8 Core CPU. So, no special need of GPU and for less than 1000 epochs it should run well on CPU.
+
 ## Dependencies
 Python-3.10.1
 
